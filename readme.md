@@ -1,5 +1,8 @@
 # Color_UI_Test
 
+##Developer
+* Firoz Thapa
+
 ## Project Description
 
 This is just a simple Color Testing Application, Just to test my skills in Javascitpt skills.
